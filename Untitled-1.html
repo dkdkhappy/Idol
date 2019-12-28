@@ -1,0 +1,94 @@
+<!DOCTYPE html> <!--DOCTYPE은 도큐타입으로 독타입이라고도 한다. 선언하는거다-->
+<html>
+<head>
+    <meta charset="UTF-8"><!--meta chars은 해당 페이지 인코딩 방식/UTF-8과 EUC-KR을 제일 많이 씀-->
+    <title>Idol 메뉴 구성 및 레이아웃</title>
+    <style>
+        .sanggyun{
+            display:block;
+            max-width: 100%;
+            height:20%;
+        }
+        .happy{
+            float: left;
+            max-width: 20%;
+        }
+        .clearyam{
+            overflow: hidden;
+        }
+        body{
+            font-family: sans-serif;
+        }
+        .li_style{
+            float: left;
+            list-style: none;
+            width: 100px;
+            height: 30px;
+            background-color:gray;
+            text-align: center;
+            line-height: 30px;
+            position: relative;
+        }
+        a{
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+
+</head>
+
+<body>
+    <header><!--섹션의 가장 윗부분-->
+        <h1>아이돌 패션의 모든 것! II</h1>
+        <nav style="position: relative;"><!--상단바같은 거. 사이트 안내에 쓰임-->
+            <ul style="overflow: hidden; position: absolute;"><!--목록 태그-->
+                <li class="li_style"><a href>HOME</a></li>
+                <li class="li_style"><a href>패션</a></li>
+                <li class="li_style"><a href>아이템</a></li>
+                <li class="li_style"><a href>패션 순위</a></li>
+                <li class="li_style"><a href>아이템 순위</a></li>
+                <li class="li_style"><a href>마이 아이돌</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <article class="clearyam">
+                <a href>
+                    <div class="happy">
+                    <img src="idol_img/sanggyun.jpg" class="sanggyun">
+                    <p>JBJ95 김상균의 구찌셔츠1</p>
+                    </div>
+                </a>
+                <a href>
+                    <div class="happy">
+                    <img src="idol_img/sanggyun.jpg" class="sanggyun">
+                    <p>JBJ95 김상균의 구찌d셔츠2</p>
+                    </div>
+                </a>
+                <a href>
+                    <div class="happy">
+                    <img src="idol_img/sanggyun.jpg" class="sanggyun">
+                    <p>JBJ95 김상균의 구찌셔츠3</p>
+                    </div>
+                </a>
+                <a href>
+                    <div class="happy">
+                    <img src="idol_img/sanggyun.jpg" class="sanggyun">
+                    <p>JBJ95 김상균의 구찌셔츠4</p>
+                    </div>
+                </a>
+                <a href>
+                    <div class="happy">
+                    <img src="idol_img/sanggyun.jpg" class="sanggyun">
+                    <p>JBJ95 김상균의 구찌셔츠5</p>
+                    </div>
+                </a>
+            </article>
+        </section>
+    </main>
+    <footer>
+    오
+    </footer>
+</body>
+</html>
