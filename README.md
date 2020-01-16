@@ -1,7 +1,7 @@
 ## ⭐️IF(Idol Fashion)⭐️
 ##### ❗️ 아이돌이 입은 의상부터 굿즈, 악세사리 등을 사진을 이용하여 검색 해 찾아주는 프로젝트 ❗️ 
 
-[![text](https://image.chosun.com/sitedata/image/201908/22/2019082200890_3.jpg) "존잘남 이진혁입니다."] (https://youtu.be/vTuaZvTKp6g)<br />
+[![text]https://image.chosun.com/sitedata/image/201908/22/2019082200890_3.jpg](https://youtu.be/vTuaZvTKp6g)<br />
 ~~사진은 아기 태양 🌞 진혁이~~
 
 
