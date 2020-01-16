@@ -1,3 +1,2 @@
-# <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji>
-나는 누구인가
-<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji>
+# ⭐️IF(Idol Fashion)⭐️
+## 내가 좋아하는 아이돌의 패션을 찾을수 있다면?
