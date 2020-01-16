@@ -4,7 +4,7 @@
 [![jinhyuk](https://image.chosun.com/sitedata/image/201908/22/2019082200890_3.jpg)](https://youtu.be/vTuaZvTKp6g)<br />
 ~~사진출처 : 마리끌레르 화보 이진혁~~
 
-*****
+***dd
 
 ### 0. 준비
 하나의 아이돌이 아닌 모든 아이돌을 사랑하는 저는 아이돌 덕질에 도움이 되는 사이트를 만들고 싶었고,
