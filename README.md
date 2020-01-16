@@ -1,6 +1,6 @@
 <body style="background-color:red;"/>
-## ⭐️IF(Idol Fashion)⭐️
-##### ❗️ 아이돌이 입은 의상부터 굿즈, 악세사리 등을 사진을 이용하여 검색 해 찾아주는 프로젝트 ❗️ 
+<h3>⭐️IF(Idol Fashion)⭐️</h3>
+<h5> ❗️ 아이돌이 입은 의상부터 굿즈, 악세사리 등을 사진을 이용하여 검색 해 찾아주는 프로젝트 ❗️ </h5>
 
 [![jinhyuk](https://image.chosun.com/sitedata/image/201908/22/2019082200890_3.jpg)](https://youtu.be/vTuaZvTKp6g)<br />
 ~~사진출처 : 마리끌레르 화보 이진혁~~
