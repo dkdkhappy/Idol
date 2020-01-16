@@ -1,4 +1,4 @@
-<body style="background-color:red;"/>
+<body style="background-color:red; width:100%"/>
 <h3>⭐️IF(Idol Fashion)⭐️</h3>
 <h5> ❗️ 아이돌이 입은 의상부터 굿즈, 악세사리 등을 사진을 이용하여 검색 해 찾아주는 프로젝트 ❗️ </h5>
 
