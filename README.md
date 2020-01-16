@@ -1,3 +1,8 @@
+<style>
+  body{
+   background-images:https://media1.thehungryjpeg.com/thumbs2/ori_3500734_fd8269e4ee5491bb313ed76e018f27642ecce16c_cute-flowers-10-seamless-patterns.jpg
+  }
+</style>
 ## ⭐️IF(Idol Fashion)⭐️
 ##### ❗️ 아이돌이 입은 의상부터 굿즈, 악세사리 등을 사진을 이용하여 검색 해 찾아주는 프로젝트 ❗️ 
 
