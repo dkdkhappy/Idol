@@ -1,4 +1,4 @@
-# ⭐️ "덕후의 옷장" <br />
+# ⭐️ "덕후의 옷장" ⭐️ <br />
 #### ❗️ 아이돌이 입은 의상부터 굿즈, 악세사리 등을 사진을 이용하여 검색 해 찾아주는 프로젝트 ❗️
 
 [![jinhyuk](https://image.chosun.com/sitedata/image/201908/22/2019082200890_3.jpg "이진혁 i like that 뮤비로 넘어갑니다. ")](https://youtu.be/vTuaZvTKp6g)<br />
